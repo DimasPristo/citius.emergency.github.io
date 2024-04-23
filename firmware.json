@@ -1,0 +1,7 @@
+{
+    "type": "CITIUS_0.4",
+    "version": 2,
+    "host": "https://dimaspristo.github.io/citius.emergency.github.io",
+    "port": 80,
+    "bin": "/firmware_2.bin"
+}
